@@ -1,0 +1,107 @@
+.boody{
+  background-image: url(https://images.unsplash.com/photo-1455734729978-db1ae4f687fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+  background-size: cover; 
+  height: 100vh;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-style: oblique;
+    text-shadow: 3px 2px #c7e713;
+    font-size: 600%;
+}
+.bouttonE {
+    text-align: center;
+    margin: 50px;
+    padding-left: 100px;
+}
+.boutton {
+    border: 5px double #515f02;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    color: #000;
+    background-color: #f8f9fa;
+    text-align: center;
+    font-style: oblique;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 36px;
+    cursor: pointer;
+    margin: 40%;
+    margin-top: 20px;
+    
+  }
+  .boutton:hover {
+    background:#c7e713;
+    transition: 0.5s all;
+    font-size: 40px;
+    border: 20px double #515f02;
+  }
+  table {
+    background-color: #ebf8a4;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+  }
+  table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  table tr:nth-child(even){background-color: #eff8bc;}
+  
+  table tr:hover {background-color: #a6c200;}
+  
+  table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #a6c208;
+    color: white;
+    text-align: center;
+  }
+  table button {
+    background-color: rgb(39, 248, 126);
+    border: 5px double #515f02;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    color: #000;
+    background-color: #f8f9fa;
+    text-align: center;
+    font-style: oblique;
+    text-decoration: none;
+    font-size: 18px;
+    cursor: pointer;
+    
+  }
+  table button:hover {
+    background:#919e44;
+    transition: 0.5s all;
+    border: 20px double #515f02;
+  }
+  .rowcard {
+    background-color: #ebfa95 ;
+  }
+  .centring {
+    text-align: center;
+  }
+  .card {
+    height: 250px;
+    width: 300px;
+    border-radius: 30%;
+    border: 2px #000;
+    padding-top: 10px;
+    margin-left: 20%;
+    text-align: center;
+  }
+  .addparticipant {
+    background-color: #659842 ;
+    font-size: 200%;
+    
+  }
+  
+  
